@@ -1339,18 +1339,18 @@ li#amazonUK {
     
 }
 
-@media (max-width: 500px) {
+@media only screen and (max-width: 500px) {
     .index-container {
-        margin-top: -50px;
+        margin-top: -100px;
     }
     .nav-container {
         margin-top: -45px;
     }
-    #video-frame {
-        position: relative;
+    
+    #index-center {
         margin-top: -85px; 
     }
-    
+
 }
 
 @media (max-width: 461px) {
@@ -1361,7 +1361,7 @@ li#amazonUK {
         height : 450px;
     }
     .index-container {
-        margin-top: -50px;
+        margin-top: -150px;
     }
     .nav-container {
         margin-top: -50px;
@@ -1373,7 +1373,7 @@ li#amazonUK {
 
 @media (max-width: 420px) {
     .index-container {
-        margin-top: -50px;
+        margin-top: -80px;
     }
     .nav-container {
         margin-top: -55px;
@@ -1395,7 +1395,7 @@ li#amazonUK {
 
 @media (max-width: 380px) {
     .index-container {
-        margin-top: -50px;
+        margin-top: -155px;
     }
     .nav-container {
         margin-top: -55px;
@@ -1421,7 +1421,7 @@ li#amazonUK {
 
 @media (max-width: 350px) {
     .index-container {
-        margin-top: -50px;
+        margin-top: -155px;
     }
     .nav-container {
         margin-top: -55px;
@@ -1443,7 +1443,10 @@ li#amazonUK {
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 340px) {
+    .index-container {
+        margin-top: -175px;
+    }
     #nav-bar-menu {
         font-size: 1.5rem;
     }
