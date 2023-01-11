@@ -21,7 +21,7 @@ var SynopsisModel = Backbone.Model.extend({
 });
 //SYNOPSIS MODEL INSTANCE
 var synopsisModel = new SynopsisModel({
-    "h1" : "2016 | INDIA | 27 MINS",
+    "h1" : "INDIA | 27 MINS",
     "h2" : "DIRECTOR'S STATEMENT",
     "h3" : "FILMMAKER",
     "image1" : "images/payal_small.jpg",

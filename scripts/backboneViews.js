@@ -185,51 +185,41 @@ var FestivalView = Backbone.View.extend({
             '<br/>' +
             '<h2>FESTIVALS</h2>' +
             '<hr/>' +
-            '<p>Bengaluru International Film Festival, January 2016</p>' +   
-            '<p>FICCI FLO Film Festival, Mumbai, February 2016</p>' +
-            '<p>I-View World Film Festival, New Delhi, March 2016</p>' + 
-            '<p>Tampere Film Festival, Finland, March 2016</p>' + 
-            '<p>Friss Hus Budapest Festival, March 2016</p>' + 
-            '<p>Indian Film Festival of Los Angeles (IFFLA), April 2016</p>' + 
-            '<p>Brussels Short Film Festival, May 2016</p>' + 
-            '<p>Cine Pobre Film Festival, May 2016</p>' + 
-            '<p>Matheran Green Festival, May 2016</p>' + 
-            '<p>Global Voices Film Festival (UN Women Initiative), May 2016  </p>' + 
-            '<p>International Film Festival of South Asia (IFFSA), May 2016</p>' + 
-            '<p>Seoul International Women\'s Film Festival (Asian Film & Video Competition), June 2016</p>' + 
-            '<p>Palm Springs International ShortFest, June 2016</p>' + 
-            '<p>Zanzibar International Film Festival, June 2016</p>' + 
-            '<p>Durban International Film Festival, June 2016</p>' + 
-            '<p>International Documentary & Short Film Festival of Kerala, June 2016</p>' + 
-            '<p>Indian Film Festival of Stuttgart, July 2016</p>' + 
-            '<p>Jahorina Film Festival, Bosnia & Herzegovina, September 2016</p>' + 
-            '<p>SiGNS Festival, Kochi, September 2016</p>' + 
-            '<p>Dharamshala International Film Festival (DIFF), November 2016</p>' + 
-            '<p>Sapporo International Shortfest, October 2016</p>' + 
-            '<p>Thessaloniki International Short Film Festival (TISFF), October 2016</p>' + 
-            '<p>Women Make Moves Film Festival, Taiwan, October 2016</p>' + 
-            '<p>Indian Film Festival The Hague - October 2016</p>' +
-            '<p>South Asia Film Festival (FFAST) Paris - October 2016</p>' +
-            '<p>3rd i San Francisco International South Asian Film Festival, November 2016</p>' +
-            '<p>Hawaii International Film Festival, November 2016</p>' +
-            '<p>Winchester Short Film Festival, November 2016</p>' +
-            '<p>Filmi: Toronto’s South Asian Film Festival, December 2016</p>' +
-            '<p>Florence River to River Indian Film Festival, December 2016</p>' +
-            '<p>Kathmandu International Mountain Film Festival, December 2016</p>' + 
-            '<p>Jaipur International Film Festival, January 2017</p>' +
-            '<p>Athena Film Festival, February 2017</p>' +
+            '<p>Bengaluru International Film Festival </p>' +   
+            '<p>FICCI FLO Film Festival, Mumbai </p>' +
+            '<p>I-View World Film Festival, New Delhi </p>' + 
+            '<p>Tampere Film Festival, Finland</p>' + 
+            '<p>Friss Hus Budapest Festival</p>' + 
+            '<p>Indian Film Festival of Los Angeles (IFFLA) </p>' + 
+            '<p>Brussels Short Film Festival </p>' + 
+            '<p>Cine Pobre Film Festival </p>' + 
+            '<p>Matheran Green Festival </p>' + 
+            '<p>Global Voices Film Festival (UN Women Initiative) </p>' + 
+            '<p>International Film Festival of South Asia (IFFSA) </p>' + 
+            '<p>Seoul International Women\'s Film Festival (Asian Film & Video Competition) </p>' + 
+            '<p>Palm Springs International ShortFest </p>' + 
+            '<p>Zanzibar International Film Festival </p>' + 
+            '<p>Durban International Film Festival </p>' + 
+            '<p>International Documentary & Short Film Festival of Kerala </p>' + 
+            '<p>Indian Film Festival of Stuttgart</p>' + 
+            '<p>Jahorina Film Festival, Bosnia & Herzegovina </p>' + 
+            '<p>SiGNS Festival, Kochi </p>' + 
+            '<p>Dharamshala International Film Festival (DIFF) </p>' + 
+            '<p>Sapporo International Shortfest </p>' + 
+            '<p>Thessaloniki International Short Film Festival (TISFF) </p>' + 
+            '<p>Women Make Moves Film Festival, Taiwan 6</p>' + 
+            '<p>Indian Film Festival The Hague </p>' +
+            '<p>South Asia Film Festival (FFAST) Paris  </p>' +
+            '<p>3rd i San Francisco International South Asian Film Festival </p>' +
+            '<p>Hawaii International Film Festival </p>' +
+            '<p>Winchester Short Film Festival 6</p>' +
+            '<p>Filmi: Toronto’s South Asian Film Festival 6</p>' +
+            '<p>Florence River to River Indian Film Festival </p>' +
+            '<p>Kathmandu International Mountain Film Festival </p>' + 
+            '<p>Jaipur International Film Festival </p>' +
+            '<p>Athena Film Festival </p>' +
             '<br/>' +
-            '<br/>' +
-            '<h2>AWARDS</h2>' +
-            '<p>Special Jury Award – SiGNS Festival, Kochi</p>' +
-            '<p>Audience Award, 22nd Florida South Asian Film Festival</p>' + 
-            '<p>Special Mention, Winchester Short Film Festival</p>' +
-            '<p>Grand Prix Internationale, Brussels Short Film Festival, May 2016</p>' +  
-            '<p>Audience Award – Seoul International Women’s Film Festival, June 2016</p>' +  
-            '<p>Best Performance in a Short Film - Indian Film Festival of Los Angeles (IFFLA), April 2016</p>' +  
-            '<p>Best Short Film - Global Voices Film Festival (UN Women Initiative), May 2016</p>' + 
-            '<p>Best Film from Dhow Countries – Zanzibar International Film Festival, July 2016</p>' +  
-            '<p>Best Short Film – Indian Film Festival of Stuttgart, July 2016</p>'   
+            '<br/>'   
         ),
     render: function(){
         this.$el.html(this.template());
