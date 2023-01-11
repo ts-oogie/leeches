@@ -195,17 +195,13 @@ function closeSidePanel(e) {
 }
 
 
- 
-
-
-$(document).on('load', function(){
-    $('.navSP').on('click', function(){
-      console.log("Done");
-      closeSidePanel();
-    });
+$('.navSP').on('click', function(){
+  console.log("Done");
+  closeSidePanel();
 });
-
-/*$(window).on('scroll', function(){
+ 
+/*
+$(window).on('scroll', function(){
      $('#sidePanel').css({"height" : "100%"});
      setVars();  
      adjustNav();
