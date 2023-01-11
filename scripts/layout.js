@@ -195,10 +195,7 @@ function closeSidePanel(e) {
 }
 
 
-$('.navSP').on('click', function(){
-  console.log("Done");
-  closeSidePanel();
-});
+ 
 
 
 $(document).on('load', function(){
@@ -208,7 +205,7 @@ $(document).on('load', function(){
     });
 });
 
-$(window).on('scroll', function(){
+/*$(window).on('scroll', function(){
      $('#sidePanel').css({"height" : "100%"});
      setVars();  
      adjustNav();
@@ -224,4 +221,4 @@ $(window).on('resize', function(){
     if (winScroll >= windowRatio) {
         $(window).scrollTop(imgHeight);
     } 
-});
+});*/
