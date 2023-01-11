@@ -306,8 +306,7 @@ body {
 .diary-collection-container {
     padding-top: 32px;
     margin: 0 auto;
-    max-width: 900px;
-    padding-left: 10px;
+    max-width: 900px; 
     margin-bottom: 80px;
 }
 
@@ -720,7 +719,7 @@ body {
 }
 
 .news-container p {
-    line-height : 10px;
+    line-height : 20px;
 }
 
 
