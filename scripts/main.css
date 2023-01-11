@@ -1165,11 +1165,15 @@ body {
     #footer {
         height: 300px;
     }
+
+    .nav-menu-container ul{
+        margin-left: 0px;
+    }
     
 }
 
 @media (max-width: 586px) {
-    
+
     .nav-menu-container ul{
         margin-left: 0px;
     }
