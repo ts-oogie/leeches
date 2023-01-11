@@ -307,6 +307,7 @@ body {
     padding-top: 32px;
     margin: 0 auto;
     max-width: 900px;
+    padding-left: 10px;
     margin-bottom: 80px;
 }
 
@@ -590,6 +591,7 @@ body {
     max-width: 900px;
     min-height: 400px;
     margin-top: 50px;
+    padding-left: 10px;
 }
 
 #synopsis-view h2 {
@@ -640,12 +642,14 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding-top: 42px;
+    padding-left: 10px;
 }
 
 .cast-view {
     position: relative;
     width: 100%;  
     clear: both;
+    padding-left: 10px;
 }
 
 .cast-view h2 {
@@ -675,6 +679,8 @@ body {
     margin: 0 auto;
     max-width: 900px;
     margin-bottom: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .news-container img {
