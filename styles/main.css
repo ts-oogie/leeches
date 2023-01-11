@@ -321,6 +321,7 @@ body {
     margin-top: 10px;
     max-width: 300px;
     float: left; 
+    margin-left: 10px;
 }
 
 
@@ -329,6 +330,8 @@ body {
     background-color : #31837c;
     height: 2.75px;
     border: none;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .diary-model-container p {
@@ -342,7 +345,7 @@ body {
 .diary-model-container h1  {
     color: #923031;
     font-family: Dosis;
-    font-size: 1.9rem;
+    font-size: 1.3rem;
     margin-bottom: 20px;
     line-height: 30px;
 }
