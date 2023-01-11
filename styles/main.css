@@ -763,16 +763,18 @@ body {
 }
  
 #googlePlay { 
-    margin-right : 12px; 
+
+    margin-right : 45px; 
     margin-bottom : -12px;
 }
 
 li#amazonUS {
-    margin-right : 12px; 
+    margin-right : 45px; 
     margin-bottom : -36px;
 }
 
 li#amazonUK { 
+    margin-right : -45px; 
     margin-bottom : -36px;
 }
 
@@ -1282,6 +1284,13 @@ li#amazonUK {
     }
 
 }
+
+@media only screen and (max-width: 638px)  {
+    #amazonUK {
+        margin-left: 5px;
+    }
+}
+
 
 @media (max-width: 650px) {
     .index-container {
