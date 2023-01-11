@@ -318,13 +318,12 @@ body {
 }
 
 .diary-model-container img {
-    margin-bottom: 25px;
-    margin-left: 10px;
+    margin-bottom: 25px; 
     margin-top: 10px;
     max-width: 300px;
     float: left; 
 }
-}
+
 
 .diary-model-container hr {
     color: #31837c;
@@ -346,6 +345,7 @@ body {
     font-family: Dosis;
     font-size: 1.9rem;
     margin-bottom: 20px;
+    line-height: 30px;
 }
 
 .diary-model-container h3  {

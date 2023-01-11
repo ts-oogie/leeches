@@ -130,9 +130,8 @@
                 "user" : "Posted by : Payal Sethi",
                 "location" : "Bangalore",
                 "facebook" : "http://facebook.com",
-                "twitter" : "http://twitter.com",
-                "p1" : " ",  
-                "p2" : " "     
+                "twitter" : "http://twitter.com" 
+                  
         },
         {      
                 "id" : 11,
@@ -156,9 +155,8 @@
                 "user" : "Posted by : Payal Sethi",
                 "location" : "Bangalore",
                 "facebook" : "http://facebook.com",
-                "twitter" : "http://twitter.com",
-                "p1" : " ",
-                "p2" : " "     
+                "twitter" : "http://twitter.com"
+               
         },
         {      
                 "id" : 13,
@@ -191,7 +189,7 @@
                 "date" : "12.4 ",
                 "image1" : "https://farm1.static.flickr.com/415/20025480872_4b29c1d946_n.jpg",
                 "image2" : "images/blank.jpg",
-                "title" : "Navigating Through Chaminar",
+                "title" : "Navigating Through",
                 "user" : "Posted by : Payal Sethi",
                 "location" : "Bangalore",
                 "facebook" : "http://facebook.com",
