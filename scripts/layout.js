@@ -140,10 +140,7 @@ function imageSlide() {
         imgSrc = data.src;
         //Push each src onto the slideSrc array
         slideSrc.push(imgSrc);
-    });
-    //Go through each of the elements in the slideSrc array
-    //For each element, run a function that goes through each value
-    //Then sets the src attribute to the new value
+    }); 
     $.each(slideSrc, function(i, src){
         setTimeout(function(){
             var $imgheader = $('#img-header');
@@ -189,15 +186,27 @@ function wWidthScroll(ww, wt, wr) {
 }
 
 function closeSidePanel(e) { 
-
-  
   $('#sidePanel').css({"display":"none"});
-  $('#closeButton').click(function(){
+  /*$('#closeButton').click(function(){
     return false;
-  }); 
+  }); */
   setVars();
   adjustNav();
 }
+
+
+$('.navSP').on('click', function(){
+  console.log("Done");
+  closeSidePanel();
+});
+
+
+$(document).on('load', function(){
+    $('.navSP').on('click', function(){
+      console.log("Done");
+      closeSidePanel();
+    });
+});
 
 $(window).scroll(function(){
      $('#sidePanel').css({"height" : "100%"});
