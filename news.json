@@ -2,7 +2,7 @@
 [
             { 
                 "id" : 1,
-                "date" : "11.20.2014",
+                "date" : "11.20",
                 "image1" : "https://farm1.static.flickr.com/447/20007023276_5bc7faa1a0_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/256/20033307425_17f9d39e91_n.jpg",
                 "title" : "An Inauspicious Start",
@@ -15,7 +15,7 @@
         },
         {      
                 "id" : 2,
-                "date" : "11.21.2014",
+                "date" : "11.21 ",
                 "image1" : "https://farm1.static.flickr.com/504/19410664134_d9eff7d7ef_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/397/19412327243_91bb7cba58_n.jpg",
                 "user" : "Posted by : Payal Sethi",
@@ -29,7 +29,7 @@
         },
         {      
                 "id" : 3,
-                "date" : "11.22.2014",
+                "date" : "11.22 ",
                 "image1" : "https://farm1.static.flickr.com/256/20007022606_4224ffeda3_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/317/19846644089_a43ed83d67_n.jpg",
                 "title" : "Day Three",
@@ -42,7 +42,7 @@
         },
         {      
                 "id" : 4,
-                "date" : "11.23.2014",
+                "date" : "11.23 ",
                 "image1" : "https://farm1.static.flickr.com/550/20025499582_e92739ba57_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/364/19846643679_de4d019e30_n.jpg",
                 "title" : "Time for Something to Happen",
@@ -56,7 +56,7 @@
         },
         {      
                 "id" : 5,
-                "date" : "11.24.2014",
+                "date" : "11.24 ",
                 "image1" : "https://farm4.static.flickr.com/3834/20007021576_d5764aed5f_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/409/19845218008_8f9bd9ec40_n.jpg",
                 "title" : "Time's Running Out",
@@ -70,7 +70,7 @@
         },
         {      
                 "id" : 6,
-                "date" : "11.25.2014",
+                "date" : "11.25 ",
                 "image1" : "https://farm4.static.flickr.com/3700/19846642909_17af85f973_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/559/19410662324_483c4daaa9_n.jpg",    
                 "title" : "My Favorite Set",
@@ -84,7 +84,7 @@
         },
         {      
                 "id" : 7,
-                "date" : "11.26.2014",
+                "date" : "11.26 ",
                 "image1" : "https://farm1.static.flickr.com/478/19845314040_bdd92a7903_n.jpg",
                 "image2" : "images/blank.jpg",    
                 "title" : "Enough Already",
@@ -97,7 +97,7 @@
         },
         {      
                 "id" : 8,
-                "date" : "11.27.2014",
+                "date" : "11.27 ",
                 "image1" : "https://farm1.static.flickr.com/537/19845313710_6a8045a2d7_n.jpg",
                 "image2" : "images/blank.jpg",    
                 "title" : "Winding Lanes",
@@ -110,7 +110,7 @@
         },
         {      
                 "id" : 9,
-                "date" : "11.28.2014",
+                "date" : "11.28 ",
                 "image1" : "https://farm4.static.flickr.com/3771/19846185588_ce0118022d_n.jpg",
                 "image2" : "images/blank.jpg",    
                 "title" : "Patience",
@@ -123,7 +123,7 @@
         },
         {      
                 "id" : 10,
-                "date" : "11.29.2014",
+                "date" : "11.29 ",
                 "image1" : "https://farm1.static.flickr.com/255/20025486282_14287fbe44_n.jpg",
                 "image2" : "images/blank.jpg",    
                 "title" : "Nailed It",
@@ -149,7 +149,7 @@
         },
         {      
                 "id" : 12,
-                "date" : "12.1.2014",
+                "date" : "12.1 ",
                 "image1" : "https://farm1.static.flickr.com/264/20033268065_229456767b_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/360/20007007186_ea1d7bc8ae_n.jpg",  
                 "title" : "Right Now",
@@ -162,7 +162,7 @@
         },
         {      
                 "id" : 13,
-                "date" : "12.2.2014",
+                "date" : "12.2 ",
                 "image1" : "images/blank.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "Special FX",
@@ -175,7 +175,7 @@
         },
         {      
                 "id" : 14,
-                "date" : "12.3.2014",
+                "date" : "12.3 ",
                 "image1" : "https://farm1.static.flickr.com/469/19845202988_86de128b89_n.jpg",
                 "image2" : "https://farm1.static.flickr.com/469/19410646104_bda9caab2b_n.jpg",
                 "title" : "Insomia Setting In",
@@ -188,7 +188,7 @@
         },
         {      
                 "id" : 15,
-                "date" : "12.4.2014",
+                "date" : "12.4 ",
                 "image1" : "https://farm1.static.flickr.com/415/20025480872_4b29c1d946_n.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "Navigating Through Chaminar",
@@ -201,7 +201,7 @@
         },
         {      
                 "id" : 16,
-                "date" : "12.5.2014",
+                "date" : "12.5 ",
                 "image1" : "https://farm1.static.flickr.com/267/20038538241_6fbf23d50d_n.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "Wedding Scene",
@@ -214,7 +214,7 @@
         },
         {      
                 "id" : 17,
-                "date" : "12.6.2014",
+                "date" : "12.6 ",
                 "image1" : "images/blank.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "Anti-Climax",
@@ -227,7 +227,7 @@
         },
         {      
                 "id" : 18,
-                "date" : "12.7.2014",
+                "date" : "12.7 ",
                 "image1" : "https://farm1.static.flickr.com/452/19412303003_a90058e42f_n.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "The Midnight Hour",
