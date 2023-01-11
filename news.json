@@ -130,8 +130,9 @@
                 "user" : "Posted by : Payal Sethi",
                 "location" : "Bangalore",
                 "facebook" : "http://facebook.com",
-                "twitter" : "http://twitter.com" 
-                  
+                "twitter" : "http://twitter.com",
+                "p1" : " ",  
+                "p2" : " "     
         },
         {      
                 "id" : 11,
@@ -155,8 +156,9 @@
                 "user" : "Posted by : Payal Sethi",
                 "location" : "Bangalore",
                 "facebook" : "http://facebook.com",
-                "twitter" : "http://twitter.com"
-               
+                "twitter" : "http://twitter.com",
+                "p1" : " ",
+                "p2" : " "     
         },
         {      
                 "id" : 13,
@@ -189,7 +191,7 @@
                 "date" : "12.4 ",
                 "image1" : "https://farm1.static.flickr.com/415/20025480872_4b29c1d946_n.jpg",
                 "image2" : "images/blank.jpg",
-                "title" : "Navigating Through",
+                "title" : "Navigating Through Chaminar",
                 "user" : "Posted by : Payal Sethi",
                 "location" : "Bangalore",
                 "facebook" : "http://facebook.com",
@@ -199,7 +201,7 @@
         },
         {      
                 "id" : 16,
-                "date" : "12.5 ",
+                "date" : "12.5",
                 "image1" : "https://farm1.static.flickr.com/267/20038538241_6fbf23d50d_n.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "Wedding Scene",
@@ -212,7 +214,7 @@
         },
         {      
                 "id" : 17,
-                "date" : "12.6 ",
+                "date" : "12.6",
                 "image1" : "images/blank.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "Anti-Climax",
@@ -225,7 +227,7 @@
         },
         {      
                 "id" : 18,
-                "date" : "12.7 ",
+                "date" : "12.7",
                 "image1" : "https://farm1.static.flickr.com/452/19412303003_a90058e42f_n.jpg",
                 "image2" : "images/blank.jpg",
                 "title" : "The Midnight Hour",
