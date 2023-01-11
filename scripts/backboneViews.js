@@ -53,7 +53,7 @@ var IndexView = Backbone.View.extend({
     tagName: 'div',
     className: 'index-container',
     template: _.template('<section id="index-container">' +        
-            '<br/><iframe id="vimeo-frame" src="https://player.vimeo.com/video/132404733" width="100%"  frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p id="index-center"><a href="https://vimeo.com/132404733">Leeches Teaser</a> from <a href="https://vimeo.com/user2912300">Payal Sethi</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br/><br/><br/><br/><br/>' +
+            '<br/><iframe id="vimeo-frame" src="https://player.vimeo.com/video/132404733" width="100%" height="390" frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p id="index-center"><a href="https://vimeo.com/132404733">Leeches Teaser</a> from <a href="https://vimeo.com/user2912300">Payal Sethi</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br/><br/><br/><br/><br/>' +
     '</section>'), 
     render: function(){
         view = this.model.toJSON();
