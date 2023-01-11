@@ -10,6 +10,7 @@ html {
 
 html, body {
 
+margin-right: -11px;
 margin:0;
 
 padding:0;
@@ -140,8 +141,7 @@ body {
 }
 
 .main-container {
-    position: relative; 
-    max-width: 1300px; 
+    position: relative;  
     margin: 0 auto;
 }
 
