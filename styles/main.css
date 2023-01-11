@@ -719,7 +719,7 @@ body {
 }
 
 .news-container p {
-    line-height : 20px;
+    line-height : 2azS0px;
 }
 
 
@@ -1345,6 +1345,10 @@ li#amazonUK {
     }
     .nav-container {
         margin-top: -45px;
+    }
+    #video-frame {
+        position: relative;
+        margin-top: -85px; 
     }
 }
 
