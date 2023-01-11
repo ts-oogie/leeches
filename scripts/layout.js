@@ -208,14 +208,14 @@ $(document).on('load', function(){
     });
 });
 
-$(window).scroll(function(){
+$(window).on('scroll', function(){
      $('#sidePanel').css({"height" : "100%"});
      setVars();  
      adjustNav();
 });
 
 //**** Window Re-size Funtion ****
-$(window).resize(function(){ 
+$(window).on('resize', function(){ 
     location.reload();
     checkWin();
     navReset(); 
