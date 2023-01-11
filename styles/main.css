@@ -1363,6 +1363,10 @@ li#amazonUK {
     #contact-info a {
         font-size: 1.25rem;
     }
+
+    .news-container p{
+        line-height : 20px; 
+     }
 }
 
 @media (max-width: 380px) {
