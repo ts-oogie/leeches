@@ -1168,6 +1168,13 @@ body {
     
 }
 
+@media (max-width: 586px) {
+    .nav-menu-container ul{
+        margin-left: 0px;
+    }
+    
+}
+
 @media (max-width: 500px) {
     .index-container {
         margin-top: -50px;
